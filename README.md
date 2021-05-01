@@ -1,1 +1,1 @@
-# starter-front-end-foundations-solution
+# starter-front-end-foundations
